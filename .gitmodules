@@ -1,0 +1,3 @@
+[submodule "modules/PERUN-STEGODETECTOR-DDM"]
+	path = modules/PERUN-STEGODETECTOR-DDM
+	url = https://github.com/massimo-guarascio/PERUN-STEGODETECTOR-DDM
